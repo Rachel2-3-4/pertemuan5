@@ -1,50 +1,49 @@
-# Welcome to your Expo app 👋
+# Aplikasi React Native - Pertemuan 5
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Aplikasi ini merupakan hasil implementasi React Native menggunakan Expo, yang terdiri dari tiga fitur utama yaitu Login, Register, dan Home.
 
-## Get started
+---
 
-1. Install dependencies
+## 🔐 1. Login Screen
 
-   ```bash
-   npm install
-   ```
+### 📸 Capture Running Program
+![Login Screenshot](assets/images/login1.jpeg)
 
-2. Start the app
+### 🔗 Expo Snack
+👉 [https://snack.expo.dev/@username/login-app](https://snack.expo.dev/@rachel234/login)
 
-   ```bash
-   npx expo start
-   ```
+### 📝 Deskripsi
+Halaman login digunakan untuk autentikasi pengguna sebelum masuk ke aplikasi. User diminta memasukkan email dan password.
 
-In the output, you'll find options to open the app in a
+---
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+## 📝 2. Register Screen
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+### 📸 Capture Running Program
+![Register Screenshot](/assets/images/register1.jpeg)
 
-## Get a fresh project
+### 🔗 Expo Snack
+👉 [https://snack.expo.dev/@username/register-app](https://snack.expo.dev/@rachel234/register)
 
-When you're ready, run:
+### 📝 Deskripsi
+Halaman register digunakan untuk membuat akun baru dengan mengisi data seperti username, email, dan password.
 
-```bash
-npm run reset-project
-```
+---
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+## 🏠 3. Home Screen
 
-## Learn more
+### 📸 Capture Running Program
+![Home Screenshot](/assets/images/home1.jpeg)
 
-To learn more about developing your project with Expo, look at the following resources:
+### 🔗 Expo Snack
+👉 [https://snack.expo.dev/@username/home-app](https://snack.expo.dev/@rachel234/home)
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+### 📝 Deskripsi
+Halaman home merupakan halaman utama setelah login berhasil, yang menampilkan informasi utama aplikasi.
 
-## Join the community
+---
 
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+## 🚀 Teknologi yang Digunakan
+- React Native
+- Expo
+- JavaScript
